@@ -166,8 +166,13 @@ weekday_weekend_steps <- rbind(weekday_steps, weekend_steps)
 xyplot(steps ~ interval | type_of_day, data = weekday_weekend_steps, layout = c(1,2), type = "l", xlab = "Interval", ylab = "Number of steps")
 
 
-![image](https://user-images.githubusercontent.com/80064271/123004628-76f26500-d37a-11eb-95e2-dae2160ce7ce.png)
 
 
+![image](https://user-images.githubusercontent.com/80064271/123004893-df414680-d37a-11eb-8915-3d87b1548762.png)
 
+![image](https://user-images.githubusercontent.com/80064271/123005020-0e57b800-d37b-11eb-9b78-6c2b8af00228.png)
+
+![image](https://user-images.githubusercontent.com/80064271/123005077-2596a580-d37b-11eb-9a0c-00291d2f2583.png)
+
+![image](https://user-images.githubusercontent.com/80064271/123005119-33e4c180-d37b-11eb-8bb6-7532ba08fb2f.png)
 
